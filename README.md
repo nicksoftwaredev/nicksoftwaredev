@@ -2,7 +2,7 @@
 <div align = "center">
   <img height= "220px" src="https://i.pinimg.com/originals/16/f1/da/16f1dae6275c1de9b0b8ff71195aff79.png">
   <div align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=23238E&vCenter=true&multiline=true&lines=Hello!+Welcome+to+my+GitHub.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=23238E&vCenter=true&multiline=true&lines=Wassup!+Anna+is+hot.">
 </div align= center>
   
   About Me
@@ -15,7 +15,7 @@
   
 <div>
   
-<a href="https://discord.gg/3r8VteegmH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
+<a href="https://discord.gg/3r8VteegmH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="link" height="30" width="40" /></a>
 
 </div>
   
