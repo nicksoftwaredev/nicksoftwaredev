@@ -7,7 +7,7 @@
   
   About Me
   
-                  My name is Nicolas, I am currently working on python language
+                  Aka Nick, working in html, css and java script. together with technology.
   
   
   Contacts
@@ -15,19 +15,8 @@
   
 <div>
   
-<a href="https://discord.gg/3r8VteegmH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3r8VteegmH" height="30" width="40" /></a>
+<a href="https://discord.gg/3r8VteegmH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 
-</div>
-  
- <div align= center>
-  
-  My Languages
-  
-  
-<div>
-  
- <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
 </div>
   
 </p>
