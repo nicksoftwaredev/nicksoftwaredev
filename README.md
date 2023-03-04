@@ -9,9 +9,7 @@
   
                   Aka Nick, working in html, css and java script. together with technology.
   
-  
   Contacts
-  
   
 <div>
   
@@ -39,4 +37,3 @@
   <img height="190em" src="https://activity-graph.herokuapp.com/graph?username=nickscr1pt&theme=github&bg_color=20232a&hide_border=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/    
 <div>
-                           
