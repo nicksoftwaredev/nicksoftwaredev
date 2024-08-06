@@ -7,7 +7,7 @@
   
   About Me
   
-                  Aka Nick, lover of programmation.
+               Aka Nick, lover of programmation.
   
   Contacts
   
