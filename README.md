@@ -7,7 +7,7 @@
   
   About Me
   
-                  Aka Nick, working in html, css and java script. together with technology.
+                  Aka Nick, lover of programmation.
   
   Contacts
   
