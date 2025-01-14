@@ -9,14 +9,6 @@
   
                Aka Nick, lover of programmation.
   
-  Contacts
-  
-<div>
-  
-<a href="https://discord.gg/3r8VteegmH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="link" height="30" width="40" /></a>
-
-</div>
-  
 </p>
   
   My GitHub Stats
