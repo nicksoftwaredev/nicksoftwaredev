@@ -10,22 +10,3 @@
                Aka Nick, lover of programmation.
   
 </p>
-  
-  My GitHub Stats
- 
-<div align="center">
-  <a href="https://github.com/nickscr1pt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickscr1pt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-      
-    
- ### Top Languages Uses
-          
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickscr1pt&layout=compact&langs_count=7&theme=midnight-purple"/>
-
- ### Stats Graphic       
-
-  <a href="https://github.com/nickscr1pt">
-  <img height="190em" src="https://activity-graph.herokuapp.com/graph?username=nickscr1pt&theme=github&bg_color=20232a&hide_border=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/    
-<div>
