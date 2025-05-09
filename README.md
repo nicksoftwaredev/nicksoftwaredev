@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  My name is Nick, and I am a young, evolving professional in the field of JavaScript technology. 👨‍💻
+  My name is Nick, and I am a young, evolving professional in the field of Python and JavaScript technology. 👨‍💻
 </p>
