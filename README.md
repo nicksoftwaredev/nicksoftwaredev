@@ -1,12 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=nickscr1pt&color=blue&style=flat">
-<div align = "center">
-  <img height= "220px" src="https://i.pinimg.com/originals/16/f1/da/16f1dae6275c1de9b0b8ff71195aff79.png">
-  <div align = "center">
-  <img src="https://i.pinimg.com/736x/26/6e/c5/266ec5ffbf5bdbf0902b54a66a9ab483.jpg=Wassup, Everyone!+Welcome+to+my+GitHub.">
-</div align= center>
-  
-  About Me
-  
-               Aka Nick, lover of programmation.
-  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a46c1f6-35e2-4490-9acf-51b1778a779b" width="450px" height="500px" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Yo,+Everyone!+Welcome." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  My name is Nick, and I am a young, evolving professional in the field of JavaScript technology. 👨‍💻
 </p>
