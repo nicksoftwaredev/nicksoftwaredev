@@ -1,27 +1,39 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Yo,+My+name+is+Nícolas;I'm+19+years+old;I'm+from+Brazil;I+Graduated+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![isniiick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isniiick&bg_color=5e4fb5&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a46c1f6-35e2-4490-9acf-51b1778a779b" alt="Foto de perfil" style="width: 50%; max-width: 100px; height: auto;" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Yo,+Everyone!+Welcome." alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isniiick&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<p align='center'>
-  My name is Nícolas Neves, also know as Nick, and i'm a young learner developing skills in <strong>Python</strong> and <strong>JavaScript</strong> technologies. 🧑🏻‍💻
-</p>
-
-<div align="center">
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isniiick&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=isniiick&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isniiick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=isniiick&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=isniiick&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=isniiick&icon=0&color=2)](https://visitcount.itsvg.in)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isniiick&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=FFFFFF&text_color=7B68EE&bg_color=0d1117" alt="isniiick github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isniiick&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
 </div>
 
+<div align="center"> 
+  <a href="https://instagram.com/isniiick" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</div>
+
+<br/>
+
+### 🧠 Basic's Proficiencies:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)
+
+### 🚀 Currently Working With:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=isniiick&color=ff69b4&style=flat">
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
