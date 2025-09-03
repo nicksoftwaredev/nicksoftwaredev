@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Yo,+My+name+is+Nícolas;I'm+19+years+old;I'm+from+Brazil;I+Graduated+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Yo,+I+am+a+Software+Web+Developer;I+solve+real-world+problems+with+web+development;I'm+from+Brazil;I+Graduated+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![nickdevboy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicksoftwaredev&bg_color=5e4fb5&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -21,18 +21,17 @@
 
 <br/>
 
-### Proficiencies:
+### Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-
-### Currently Working With:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
-
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" height="100" style="margin-right: 15px;">
+<img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="100" height="100" style="margin-right: 15px;">
+<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" width="100" height="100" style="margin-right: 15px;">
+<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" width="100" height="100" style="margin-right: 15px;">
+<img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" width="100" height="100" style="margin-right: 15px;">
+<img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" width="100" height="100" style="margin-right: 15px;">
+<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" width="100" height="100" style="margin-right: 15px;">
+</p>
 <br/>
 
 <div align="center">
