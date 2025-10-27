@@ -1,47 +1,46 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Yo,+I+am+a+Software+Web+Developer;I+solve+real-world+problems+with+web+development;I'm+from+Brazil;I+Graduated+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![nickdevboy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicksoftwaredev&bg_color=5e4fb5&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicksoftwaredev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicksoftwaredev&bg_color=0d1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </div>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicksoftwaredev&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=FFFFFF&text_color=7B68EE&bg_color=0d1117" alt="nicksoftwaredev github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksoftwaredev&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
+<div align="center" style="margin-top: 40px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=nicksoftwaredev&theme=dracula&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
+
+<div align="center" style="margin-top: 30px;">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicksoftwaredev&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksoftwaredev&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://instagram.com/yoniiick" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" />
   </a>
 </div>
 
 ---
 
-### Proficiencies
-
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30" style="margin-right: 15px;">
-  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" width="30" height="30" style="margin-right: 15px;">
-  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" width="30" height="30" style="margin-right: 15px;">
-</div>
-
----
-
-### Basics Proficiencies
-
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="30" height="30" style="margin-right: 15px;">
-  <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" width="30" height="30" style="margin-right: 15px;">
-  <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" width="30" height="30" style="margin-right: 15px;">
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" width="30" height="30" style="margin-right: 15px;">
-</div>
+### 🧠 Core Skills
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nickdevboy&color=ff69b4&style=flat">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python" height="48" style="margin: 10px;" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+### ⚙️ Tools & Platforms
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,linux" height="48" style="margin: 10px;" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nicksoftwaredev&color=7B68EE&style=flat-square&label=Profile+Views" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
