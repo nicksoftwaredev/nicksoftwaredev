@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://instagram.com/yoniiick" target="_blank">
+  <a href="https://instagram.com/wfenick" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" />
   </a>
 </div>
