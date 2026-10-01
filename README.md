@@ -5,68 +5,56 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicksoftwaredev&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicksoftwaredev&theme=onestar&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=nicksoftwaredev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117"
-  />
-
-<img
- width="49%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksoftwaredev&layout=compact&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117"
-/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicksoftwaredev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksoftwaredev&layout=compact&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br>
 
 ---
 
-### 🧠 Technologies
+### 🧠 Core Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=FFFFFF\&labelColor=0D1117) 
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=FFFFFF\&labelColor=0D1117) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=FFFFFF\&labelColor=0D1117) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=FFFFFF\&labelColor=0D1117) 
+
+### 🚀 Currently Working With
+
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge\&logo=react\&logoColor=FFFFFF\&labelColor=0D1117) 
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=FFFFFF\&labelColor=0D1117) 
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge\&logo=python\&logoColor=FFFFFF\&labelColor=0D1117) 
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge\&logo=git\&logoColor=FFFFFF\&labelColor=0D1117) 
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=0D1117) 
+![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=FFFFFF\&labelColor=0D1117) 
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF\&labelColor=0D1117) 
+
+<br>
+
+---
+
+### 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python" height="50" />
+
+<a href="https://github.com/nicksoftwaredev">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://instagram.com/wfenick">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+</a>
+
 </div>
 
 <br>
 
-### ⚙️ Tools & Technologies
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" height="50" />
-</div>
-
-<br>
-
-### 🌐 Connect with me
-
-<div align="center">
-
-  <a href="https://github.com/nicksoftwaredev">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-
-  <a href="https://instagram.com/wfenick">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicksoftwaredev&color=FFFFFF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=nicksoftwaredev&color=000000&style=flat-square&label=Profile+Views" />
 </div>
 
 <br>
